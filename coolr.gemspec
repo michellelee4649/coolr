@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "coolr"
   spec.version       = Coolr::VERSION
   spec.authors       = ["Michelle Lee"]
-  spec.email         = ["michiru_74@yahoo.com"]
+  spec.email         = ["leem46@uw.edu"]
 
   spec.summary       = %q{ruby gem for Bullseye}
   spec.description   = %q{}
