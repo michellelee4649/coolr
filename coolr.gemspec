@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Michelle Lee"]
   spec.email         = ["michiru_74@yahoo.com"]
 
-  spec.summary       = %q{ruby library for Bullseye}
+  spec.summary       = %q{ruby gem for Bullseye}
   spec.description   = %q{}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://michellelee74@bitbucket.org/michellelee74/api-wrapper.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
